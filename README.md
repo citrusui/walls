@@ -13,5 +13,6 @@ Run the following command...
 Images and other content in the `source/` directory belong to the following people:
 
 - Dave Chenell, `epor4k.jpg`. [Dribbble.](https://dribbble.com/shots/2772417-EPOR)
+- Louis Coyle, `Lakeside_Sunrise_3840x2160.jpg`. [Dribbble.](https://dribbble.com/shots/1816328-Lakeside-Sunrise)
 
 Code licensed under [MIT.](LICENSE.md)

@@ -1,5 +1,8 @@
 #!/bin/bash
-export WALLPAPER=source/epor4k.jpg # TODO: use a loop
+arr[0]="epor4k.jpg"
+arr[1]="Lakeside_Sunrise_3840x2160.jpg"
+rand=$[ $RANDOM % 2 ]
+export WALLPAPER=source/${arr[$rand]}
 if [ "$(uname)" == "Darwin" ]; then
   osascript -e "tell application \"Finder\" to set desktop picture to POSIX file \"$WALLPAPER\""
 fi
