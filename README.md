@@ -14,5 +14,6 @@ Images and other content in the `source/` directory belong to the following peop
 
 - Dave Chenell, `epor4k.jpg`. [Dribbble.](https://dribbble.com/shots/2772417-EPOR)
 - Louis Coyle, `Lakeside_Sunrise_3840x2160.jpg`. [Dribbble.](https://dribbble.com/shots/1816328-Lakeside-Sunrise)
+- Boerzhijia, `apple_wallpapers_5120x2880.jpg`. [Dribbble.](https://dribbble.com/shots/1798736-Apple-Wallpapers)
 
 Code licensed under [MIT.](LICENSE.md)
