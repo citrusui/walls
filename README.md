@@ -1,4 +1,6 @@
-# walls
+# walls (deprecated)
+
+### **DEPRECATED. I no longer have time to maintain this project. This may change if and when I acquire enough devices to test for cross-platform compatibility.**
 
 A tiny script to automate the process of setting a desktop background without the hassle of a GUI.
 
